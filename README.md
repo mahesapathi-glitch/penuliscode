@@ -1,4 +1,4 @@
-#Perkenalkan nama saya Dwiki Iqbal Khadafi.#
+Perkenalkan nama saya Dwiki Iqbal Khadafi.
 
 🏫 Saya seorang Mahasiswa di Universitas Muhammadiyah Jakarta.
 
